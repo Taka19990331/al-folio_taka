@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://Taka19990331.github.io/sitemap.xml
